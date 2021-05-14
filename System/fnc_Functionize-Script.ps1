@@ -2,7 +2,7 @@
 
     <#
     .SYNOPSIS
-        Function to create a function from a PowerShell script's content.
+        Function to create a function from a PowerShell script's content ("function-ize" a script.)
 
     .DESCRIPTION
         Function to create a function from a PowerShell script's content.
